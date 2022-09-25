@@ -1,0 +1,18 @@
+{
+    "include": [
+        "iostream",
+        "algorithm",
+        "stdio.h"
+    ],
+    "namespace": [
+        "std"
+    ],
+    "const": [
+        {
+            "type": "int",
+            "name": "max_",
+            "value": "1e4"
+        }
+    ],
+    "other": "const int a[max_]={0};"
+}
